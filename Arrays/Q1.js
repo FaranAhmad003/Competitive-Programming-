@@ -45,3 +45,4 @@ function areAllNumbersSame(arr) {
 
 const myArray = [1,2,1,2,3];
 reverseArr(myArray);
+//github pushing
